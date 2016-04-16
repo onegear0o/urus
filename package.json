@@ -1,0 +1,23 @@
+{
+  "name": "storymaker",
+  "version": "1.0.0",
+  "description": "ippei's story maker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom/electron-quick-start.git"
+  },
+  "keywords": [
+  ],
+  "author": "isdriven",
+  "license": "MIT",
+  "bugs": {
+  },
+  "homepage": "https://github.com/atom/electron-quick-start#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
